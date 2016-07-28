@@ -24,7 +24,7 @@
             "Aacotroneo\\Saml2\\": "src/"
         }
     },
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
   "repositories": [
   {
    "type": "git",
