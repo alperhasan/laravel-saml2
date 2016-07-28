@@ -14,7 +14,7 @@
     "require": {
         "php": ">=5.4.0",
         "illuminate/support": ">=5.0.0",
-        "onelogin/php-saml": "2.7.0"
+        "studysocial/php-saml": "dev-master"
     },
     "require-dev": {
         "mockery/mockery": "0.9.*"
@@ -24,5 +24,11 @@
             "Aacotroneo\\Saml2\\": "src/"
         }
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "stable",
+  "repositories": [
+  {
+   "type": "git",
+   "url": "https://github.com/studysocial/php-saml"
+  }
+    ]
 }
