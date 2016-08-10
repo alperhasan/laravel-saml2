@@ -9,6 +9,7 @@ The aim of this library is to be as simple as possible. We won't mess with Larav
 
 ## Installation - Composer
 
+
 To install Saml2 as a Composer package to be used with Laravel 4, simply add this to your composer.json:
 
 ```json
